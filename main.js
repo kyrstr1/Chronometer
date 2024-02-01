@@ -7,6 +7,7 @@ let seconds = 0;
 let minutes = 0;
 
 let hours = 0;
+
 function startStop() {
   if (running) {
     clearInterval(timer);
